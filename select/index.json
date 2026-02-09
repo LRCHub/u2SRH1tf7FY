@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ギリスト！",
+  "base_artist": "Tatsuya Ueda",
+  "createdAt": "2026-02-09T21:01:29.712443Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ギリスト!",
+      "artist": "上田竜也",
+      "has_synced": false,
+      "path": "select/pl_01_ギリスト!_上田竜也.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ギリスト!",
+      "artist": "上田竜也",
+      "has_synced": false,
+      "path": "select/pl_02_ギリスト!_上田竜也.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ギリスト!",
+      "artist": "上田竜也",
+      "has_synced": false,
+      "path": "select/pl_03_ギリスト!_上田竜也.txt"
+    }
+  ]
+}
